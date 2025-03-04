@@ -28,5 +28,5 @@ while cap.isOpened():
     im0 = gym.monitor(im0)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-BEN BURDA BİR ŞEYLER YAPTIM
+
 cv2.destroyAllWindows()
